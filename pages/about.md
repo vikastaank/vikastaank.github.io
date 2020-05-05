@@ -16,9 +16,14 @@ I am java devloper by profession and interest both. Love to work with Java & it'
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
 </div> -->
 
-## **Achievements**
-- </>## **Tools and Frameworks**
-- Java- SpringBoot- Hibernate- Rest API development & Integration
-- Microservices- Linux
-- MySQL
+## **Skills**
+- Java
+- Spring/SpringBoot
+- Hibernate
+- MySQL/Oracle
 - Go
+- Git, Jira
+- Rest API development & Integration
+- Microservices
+- Linux
+- Payment gateways integration in Java
