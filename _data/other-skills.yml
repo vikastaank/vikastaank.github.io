@@ -1,3 +1,19 @@
 - name: Linux
   # percentage: 95
-  # color: info
+  # color: info 
+
+- name: Git 
+  # percentage: 70
+  # color: dark
+  
+- name: Jira 
+  # percentage: 70
+  # color: dark
+  
+- name: Rest API development & Integration 
+  # percentage: 70
+  # color: dark
+  
+- name: Payment gateways integration 
+  # percentage: 70
+  # color: dark
