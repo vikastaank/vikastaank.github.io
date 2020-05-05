@@ -10,14 +10,10 @@
   # percentage: 80
   # color: danger
 
-- name: SHibernate
+- name: Hibernate
   # percentage: 80
   # color: danger
 
 - name: MySql
-  # percentage: 70
-  # color: dark
-
-- name: Git 
   # percentage: 70
   # color: dark
