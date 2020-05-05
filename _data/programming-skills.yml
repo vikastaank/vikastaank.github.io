@@ -1,0 +1,19 @@
+- name: Java
+  # percentage: 80
+  # color: danger
+
+- name: Go
+  # percentage: 50
+  # color: danger
+
+- name: Frameworks : Spring/SpringBoot, Hibernate
+  # percentage: 80
+  # color: danger
+
+- name: MySql, Oracle
+  # percentage: 70
+  # color: dark
+
+- name: Tools : Git, Jira, 
+  # percentage: 70
+  # color: dark

@@ -1,1 +1,69 @@
-theme: jekyll-theme-midnight
+### Site Settings ###
+title               : Vikas Taank
+description         : "Java developer, by profession & interest both! Love to code and seek to eplore technologies always.."
+baseurl             : ""    # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+repository          : vikastaank/vikastaank.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+remote_theme        : YoussefRaafatNasry/portfolYOU
+author              : Vikas Taank
+
+### Plugins ###
+plugins:
+  - jemoji
+  - jekyll-feed
+
+### Navbar Settings ###
+nav_exclude:                                            # The following paths are excluded from navbar
+  - pages/tags.html
+  - pages/404.html
+  - pages/index.md
+
+
+### Author Info ###
+author:
+  name              : Vikas Taank
+  image             : assets/profile.png
+  # behance           : your_username
+# dribbble          : your_username
+  email             : vikas.taank12@gmail.com
+  # facebook          : vikas.taank12
+  github            : vikastaank
+# gitlab            : your_username
+  instagram         : me_vikastaank
+  linkedin          : vikastaank
+  # medium            : your_username
+# soundcloud        : your_username
+# spotify           : your_username
+# stackoverflow     : your_user_id
+# tumblr            : your_username.tumblr.com
+# twitch            : your_username
+  twitter           : viaank24
+# vimeo             : your_username
+# youtube           : your_channel_name
+
+
+### Posts ###
+permalink: /blog/:title
+
+
+### Collections ###
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+
+
+### Defaults for collections ###
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+
+
+### Exclude from processing ###
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - "*.log"
