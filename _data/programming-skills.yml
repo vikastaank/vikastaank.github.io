@@ -6,14 +6,18 @@
   # percentage: 50
   # color: danger
 
-- name: Frameworks : Spring/SpringBoot, Hibernate
+- name: SpringBoot
   # percentage: 80
   # color: danger
 
-- name: MySql, Oracle
+- name: SHibernate
+  # percentage: 80
+  # color: danger
+
+- name: MySql
   # percentage: 70
   # color: dark
 
-- name: Tools : Git, Jira, 
+- name: Git 
   # percentage: 70
   # color: dark
