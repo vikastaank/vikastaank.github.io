@@ -26,3 +26,7 @@ I am java devloper by profession and interest both. Love to work with Java & it'
 {% include about/skills.html title="" source=site.data.programming-skills %}
 {% include about/skills.html title="" source=site.data.other-skills %}
 </div>
+
+<div class="row">
+{% include about/skills.html title="" source=site.data.timeline %}
+</div>
