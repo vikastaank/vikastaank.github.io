@@ -1,5 +1,3 @@
-# vikastaank.github.io
-
 All about my profile, my skills & projects I have done.
 
 ## Here is the Direct link to Webpage.
