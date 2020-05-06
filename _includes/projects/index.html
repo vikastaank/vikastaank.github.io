@@ -40,7 +40,8 @@
     {%- assign project_img   = project.image -%}
     {%- assign project_name  = project.title -%}
     {%- assign project_desc  = project.description -%}
-    {%- assign project_tools = project.tech-dur -%}
+    {%- assign project_tools = project.tools -%}
+	{%- assign project_duration = project.duration -%}
 
     {%- if project.external_url -%}
       {%- assign project_url = project.external_url -%}
