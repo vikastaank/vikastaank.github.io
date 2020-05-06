@@ -1,19 +1,19 @@
 - name: Java
-  percentage: 80
-  color: danger
+  percentage: 70
+  #color: danger
 
 - name: Go
-  # percentage: 50
+  percentage: 50
   # color: danger
 
 - name: SpringBoot
-  # percentage: 80
+  percentage: 80
   # color: danger
 
 - name: Hibernate
-  # percentage: 80
+  percentage: 70
   # color: danger
 
 - name: MySql
-  # percentage: 70
+  percentage: 70
   # color: dark
