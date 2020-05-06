@@ -1,6 +1,6 @@
 - name: Linux
   percentage: 90
-  color: info 
+  #color: info 
 
 - name: Git 
   percentage: 70
