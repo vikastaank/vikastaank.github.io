@@ -17,3 +17,7 @@
 - name: MySql
   percentage: 70
   # color: dark
+
+- name: Apache Kafka
+  percentage: 60
+  # color: dark
