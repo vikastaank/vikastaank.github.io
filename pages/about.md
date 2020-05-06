@@ -8,8 +8,8 @@ weight: 3
 # **About Me** :point_down:
 
 Hey, I am **{{ site.author.name }}** :wave:,<br>
-I am Java devloper by profession and interest both:exclamation: Love to work with Java & it's frameworks, love to explore technologies & things to make things easier and efficient..:computer: <br>
-Love to sleep more:grey_exclamation: :zzz: <br>
+I am Java devloper by profession and interest both! Love to work with Java & it's frameworks, love to explore technologies & things to make things easier and efficient..:computer: <br>
+Love to sleep more! :zzz: <br>
 Always ready to party :beers: <br>
 I was never able to complete any book.. :orange_book: <br>
 
