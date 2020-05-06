@@ -1,9 +1,24 @@
-- title: SSE, Smartbox
-  from: Apr, 2020
-  to: Present
-  description: Working on Smartbox product, having responsibility to develop microservices for new modules & functionalities and refactoring code to enhance the system performance or resolve the issues. 
+- title: 1. IBE (Internet booking engine) | Travel product | 2.ecareibe.com
+  tech-dur: Java, Spring, Hibernate, Jsp, MySql, Git/SVN | Feb 2016 - Aug 2019
+  description: A travel portal which is available for both B2B and B2C 
 
-- title: SSE, Hash Studioz Technologies Pvt Ltd ernst. ecare Tech Labs Pvt Ltd
-  from: Feb, 2016
-  to: Nov, 2019
-  description: Worked on travel product, web services/API integrations for the new suppliers. Modified existing product to correct errors, to upgrade interfaces and improve performance, to add new modules & functionalities, keeping the performance of the system not effected. Led the product development process, and handled deployments. Worked on product and diff service based projects for Rest API development using Spring Boot + Hibernate.
+- title: 2. CPG (Common Payment Gateway | Payment solution product
+  tech-dur: Java, Spring Boot + Hibernate, MySql, BitBucket| Jun 2016 - Aug 2019
+  description: Standalone web application that can easily be integrated with any existing app to act as a single payment solution.
+
+- title: 3. Pingala - IIT Kanpur (At client location - EVC Ventures, Gurgaon)
+  tech-dur: Java 8, Spring MVC, Hibernate, Jsp, MySql, SVN | Sep 2019 - Nov 2019
+  description: A SAAS product, basically a management system customized for different IIT institutes in India, which does many functionalities like listing students, conducting exams for diff departments, maintaining students as well employees data, preparing students' result, preparing salary data for employees and many other functionalities.
+
+- title: 4. Eldermark/SimplyConnect (At client location - Qss Technosoft Pvt Ltd, Noida)
+  tech-dur: Java 8, Spring Boot, Hibernate, Sql Server, BitBucket | Mar 2019 - June 2019
+  description: Simply Connect’s inter-operable exchange is intuitively designed to move virtual health records across systems in formats all parties can use and understand facilitating more effective and seamless transitons of care.
+
+- title: 5. TravDesk (A new Travel B2B product - ecare Technology Labs Pvt Ltd)
+  tech-dur: Java 8, Spring Boot, Hibernate, MySql, BitBucket | May 2018 - Oct 2018
+  description: It is an integrated Travel CRM & Marketing platform, with embedded chatbot & mobility tools for Travel Business.
+
+- title: 6. GoLang project
+  tech-dur: GO, Git, Visual Studio as IDE for Go | Mar 2018 - Apr 2018
+  description: It was a service based project, worked on the micro-services development in a module that was a part of an already developed product.
+
