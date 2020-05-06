@@ -1,6 +1,6 @@
 - name: Java
-  # percentage: 80
-  # color: danger
+  percentage: 80
+  color: danger
 
 - name: Go
   # percentage: 50
